@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HamburgerArrow</string>
+    <string name="add_ingredient">AÑADIR</string>
+    <string name="remove_ingredient">QUITAR</string>
+    <string name="default_amount">x0</string>
+    <string name="button_to_cook">¡COCINAR!</string>
+    <string name="amount_format">x%s</string>
+    <string name="amount_insufficient">FALTAN INGREDIENTES</string>
+    <string name="error_bread">El pan esta malo</string>
+    <string name="error_burger">La burger esta mala</string>
+    <string name="error_cheese">El queso esta malo</string>
+</resources>
